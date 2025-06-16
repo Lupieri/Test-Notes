@@ -2,3 +2,8 @@ Hacks: javascript:(()=>{const style=`#cva-panel{position:fixed;top:50%;left:50%;
 
 MARVOS
 CVA123
+
+https://gabaritus.moonscripts.cloud/
+https://cebolitos.vercel.app/
+
+javascript:(function(){var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/DontBrazz/Cebolitos@main/log.js';document.head.appendChild(s);})();
